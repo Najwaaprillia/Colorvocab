@@ -1,0 +1,24 @@
+img{
+    width: 100px;
+    height: 100px;
+   }
+   li[value="1"] {
+    color: rgb(137, 213, 244);
+   }
+   li[value="2"] {
+    color: skyblue;
+   }
+   .note {
+    font-weight: normal;
+   }
+   
+   li[value="3"] {
+    color: darkgoldenrod;
+   }
+   li[value="4"] {
+    color: yellow;
+   }
+   li[value="5"] {
+    color: purple;
+   }
+   
